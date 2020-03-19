@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1> Hi Mohini darling !!  </h1>
+<h2> What about tomorrow luch plan ? </h2>
+<h2> can we have have mutton curry with bagara Rice ? or can i bring the fish today so that you can prepare evening tomorrow we can have </h2>
